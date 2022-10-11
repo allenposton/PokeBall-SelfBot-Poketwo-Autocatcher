@@ -1,6 +1,6 @@
 {
-   "token": "",
-   "command_prefix": "P^",
+   "token": "MTAyMTE1NDE1NDc5NTc2NTgxMA.GuVs-5.R8NZmWb5F7LBCWkKQCLk84SlIijmTpYyEEdpUs",
+   "command_prefix": "@Pokétwo",
    "priority": [
       "Groudon",
 	  "Mew",
@@ -20,6 +20,6 @@
    "autolog": true,
    "update_checker": true,
    "auto_update": true,
-   "autocatcher": false,
+   "autocatcher": true,
    "priority_only": false
 }
